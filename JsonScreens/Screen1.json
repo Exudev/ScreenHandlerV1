@@ -1,0 +1,95 @@
+[
+  {
+    "ID": "StartScreen",
+    "EntryPoint": true,
+    "Menu": "---Welcome to Pollos Hermanos---",
+    "Message": "---My name is Gustavo, but you can call me Gus, press C to continue---",
+    "Fields": null,
+    "Actions": [
+      {
+        "Name": "Seguir",
+        "Option": "C",
+        "Handler": "NextScreen",
+        "NextScreen": "FollowUpScreen"
+      }
+    ]
+  },
+  {
+    "ID": "FollowUpScreen",
+    "EntryPoint": false,
+    "Menu": "Follow Up!",
+    "Message": "Which menu would you like to see? (B) beverage menu, (M) main course menu, (A) Appetizer menu!, Exit (E)",
+    "Fields": null,
+    "Actions": [
+      {
+        "Name": "Drinks-Menu",
+        "Option": "B",
+        "Handler": "NextScreen",
+        "NextScreen": "BeverageMenu"
+      },
+      {
+        "Name": "MainMenu",
+        "Option": "M",
+        "Handler": "NextScreen",
+        "NextScreen": "MainMenu"
+      },
+      {
+        "Name": "AppetizerMenu",
+        "Option": "A",
+        "Handler": "NextScreen",
+        "NextScreen": "AppetizerMenu"
+      },
+      {
+        "Name": "Exit",
+        "Option": "E",
+        "Handler": "Exit",
+        "NextScreen": null
+      }
+    ]
+  },
+  {
+    "ID": "BeverageMenu",
+    "EntryPoint": false,
+    "Menu": "---Drinks Menu---",
+    "Message": "Coca-Cola ---> $2.50\nWater --->$1.50\nIced Tea--->$2.50\n Press E to Exit",
+    "Fields": null,
+    "Actions": [
+      {
+        "Name": "Salir",
+        "Option": "e",
+        "Handler": "Exit",
+        "NextScreen": null
+      }
+    ]
+  },
+  {
+    "ID": "AppetizerMenu",
+    "EntryPoint": false,
+    "Menu": "---Appetizer Menu---",
+    "Message": "Croqueta mancheco ---> $3.50\nChesse Sticks --->$3.50\nFries--->$3.50\n Press E to Exit",
+    "Fields": null,
+    "Actions": [
+      {
+        "Name": "Salir",
+        "Option": "e",
+        "Handler": "Exit",
+        "NextScreen": null
+      }
+    ]
+  },
+  {
+    "ID": "MainMenu",
+    "EntryPoint": false,
+    "Menu": "---Main Course---",
+    "Message": "Frito con salami --->$5.50\nBacon Chesse Burger --->$7.50\nPancakes--->$6.50\n Press E to Exit",
+    "Fields": null,
+    "Actions": [
+      {
+        "Name": "Salir",
+        "Option": "e",
+        "Handler": "Exit",
+        "NextScreen": null
+      }
+    ]
+  }
+]

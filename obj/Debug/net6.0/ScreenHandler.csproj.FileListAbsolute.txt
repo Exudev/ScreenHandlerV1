@@ -1,0 +1,17 @@
+C:\Users\pablo\source\repos\ScreenHandler\ScreenHandler\bin\Debug\net6.0\ScreenHandler.exe
+C:\Users\pablo\source\repos\ScreenHandler\ScreenHandler\bin\Debug\net6.0\ScreenHandler.deps.json
+C:\Users\pablo\source\repos\ScreenHandler\ScreenHandler\bin\Debug\net6.0\ScreenHandler.runtimeconfig.json
+C:\Users\pablo\source\repos\ScreenHandler\ScreenHandler\bin\Debug\net6.0\ScreenHandler.dll
+C:\Users\pablo\source\repos\ScreenHandler\ScreenHandler\bin\Debug\net6.0\ScreenHandler.pdb
+C:\Users\pablo\source\repos\ScreenHandler\ScreenHandler\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\pablo\source\repos\ScreenHandler\ScreenHandler\obj\Debug\net6.0\ScreenHandler.csproj.AssemblyReference.cache
+C:\Users\pablo\source\repos\ScreenHandler\ScreenHandler\obj\Debug\net6.0\ScreenHandler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pablo\source\repos\ScreenHandler\ScreenHandler\obj\Debug\net6.0\ScreenHandler.AssemblyInfoInputs.cache
+C:\Users\pablo\source\repos\ScreenHandler\ScreenHandler\obj\Debug\net6.0\ScreenHandler.AssemblyInfo.cs
+C:\Users\pablo\source\repos\ScreenHandler\ScreenHandler\obj\Debug\net6.0\ScreenHandler.csproj.CoreCompileInputs.cache
+C:\Users\pablo\source\repos\ScreenHandler\ScreenHandler\obj\Debug\net6.0\ScreenHandler.csproj.CopyComplete
+C:\Users\pablo\source\repos\ScreenHandler\ScreenHandler\obj\Debug\net6.0\ScreenHandler.dll
+C:\Users\pablo\source\repos\ScreenHandler\ScreenHandler\obj\Debug\net6.0\refint\ScreenHandler.dll
+C:\Users\pablo\source\repos\ScreenHandler\ScreenHandler\obj\Debug\net6.0\ScreenHandler.pdb
+C:\Users\pablo\source\repos\ScreenHandler\ScreenHandler\obj\Debug\net6.0\ScreenHandler.genruntimeconfig.cache
+C:\Users\pablo\source\repos\ScreenHandler\ScreenHandler\obj\Debug\net6.0\ref\ScreenHandler.dll
